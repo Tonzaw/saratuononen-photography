@@ -20,7 +20,7 @@ root.render(
       padding: "2rem"
     }}
   >
-    Uusitamme nettisivuja.
+    Uudistamme nettisivuja.
     <br />
     Otathan toistaiseksi yhteyttä suoraan Instagramin kautta
     <b>@saratuononen_photography</b>
